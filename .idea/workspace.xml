@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6895c16-c4bd-463c-8a6d-b01ac7ad4609" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exatio/game/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exatio/game/KeyboardHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exatio/game/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exatio/game/entity/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exatio/game/entity/EntityState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exatio/game/entity/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exatio/game/tiles/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exatio/game/tiles/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exatio/game/tiles/TileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exatio/game/tiles/TileType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exatio/game/util/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/attack_down_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/attack_down_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/attack_down_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/attack_down_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/attack_up_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/attack_up_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/attack_up_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/attack_up_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_down_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_down_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_down_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_down_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_left_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_left_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_left_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_left_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_right_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_right_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_right_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_right_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_up_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_up_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_up_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/entity/player/walk_up_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/items/diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/items/heart_empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/items/heart_full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/items/heart_half.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/levels/screen_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tile/brick_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tile/door.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tile/metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tile/mud.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2OLdWYdJbnK3bLVoicdxQcQO6Cq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Run.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Exatio/Documents/Projets/My2DGame",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Projets\My2DGame\src\main\resources" />
+      <recent name="C:\Users\Exatio\Documents\Projets\My2DGame\src\main\resources\tile" />
+      <recent name="C:\Users\Exatio\Documents\Projets\My2DGame\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Exatio\Documents\Projets\My2DGame\src\main\resources\items" />
+      <recent name="C:\Users\Exatio\Documents\Projets\My2DGame\src\main\resources\tile" />
+      <recent name="C:\Users\Exatio\Documents\Projets\My2DGame\src\main\resources\test" />
+      <recent name="C:\Users\Exatio\Documents\Projets\My2DGame\src\main\resources\entity\player" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Run">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="fr.exatio.game.Main" />
+      <module name="My2DGame.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jar" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Run" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Gradle.Jar" />
+      <item itemvalue="Gradle.Run" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6895c16-c4bd-463c-8a6d-b01ac7ad4609" name="Changes" comment="" />
+      <created>1681343829632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681343829632</updated>
+      <workItem from="1681343830370" duration="30846000" />
+      <workItem from="1681386737581" duration="2218000" />
+      <workItem from="1681478995610" duration="3549000" />
+      <workItem from="1681510503883" duration="275000" />
+      <workItem from="1681596354357" duration="21000" />
+      <workItem from="1681926200233" duration="1085000" />
+      <workItem from="1682158028442" duration="1352000" />
+      <workItem from="1682316116783" duration="1308000" />
+      <workItem from="1682328344826" duration="3220000" />
+      <workItem from="1682349229091" duration="470000" />
+      <workItem from="1682349730886" duration="1310000" />
+      <workItem from="1682428383882" duration="553000" />
+      <workItem from="1682428984809" duration="36000" />
+      <workItem from="1682429379047" duration="1328000" />
+      <workItem from="1682973659726" duration="10000" />
+      <workItem from="1701465747106" duration="213000" />
+      <workItem from="1706320041123" duration="5000" />
+      <workItem from="1706320101623" duration="72000" />
+      <workItem from="1733359074371" duration="218000" />
+      <workItem from="1733359745215" duration="175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
